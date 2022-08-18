@@ -3,18 +3,13 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to LinBlog's documentation!
+Welcome to LinBlog !
 ===================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
-
-
-null
-==================
-
-* :ref:`01设计模式/index`
-* :ref:`02数据结构/index`
-* :ref:`03多线程/index`
+   java
+   api
+   mod
+   report

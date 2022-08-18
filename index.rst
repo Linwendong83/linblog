@@ -7,6 +7,6 @@ Welcome to LinBlog !
 ===================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth:  2
 
    LianDong

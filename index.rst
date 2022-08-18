@@ -9,4 +9,4 @@ Welcome to LinBlog !
 .. toctree::
    :maxdepth: 2
 
-   test
+   LianDong

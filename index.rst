@@ -15,6 +15,6 @@ Welcome to LinBlog's documentation!
 null
 ==================
 
-* :01设计模式/index
-* :02数据结构/index
-* :03多线程/index
+* :ref:`01设计模式/index`
+* :ref:`02数据结构/index`
+* :ref:`03多线程/index`

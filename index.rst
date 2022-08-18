@@ -12,13 +12,9 @@ Welcome to LinBlog's documentation!
 
 
 
-*null
+null
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
-01设计模式/index
-02数据结构/index
-03多线程/index
+* :01设计模式/index
+* :02数据结构/index
+* :03多线程/index

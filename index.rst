@@ -12,7 +12,7 @@ Welcome to LinBlog's documentation!
 
 
 
-Indices and tables
+*null
 ==================
 
 * :ref:`genindex`

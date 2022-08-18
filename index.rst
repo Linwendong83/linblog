@@ -9,7 +9,4 @@ Welcome to LinBlog !
 .. toctree::
    :maxdepth: 2
 
-   java
-   api
-   mod
-   report
+   test

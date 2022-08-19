@@ -9,7 +9,7 @@
 project = 'LinBlog'
 copyright = '2022, Lin'
 author = 'Lin'
-release = 'v1.0'
+release = '1.0'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
